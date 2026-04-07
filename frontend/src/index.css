@@ -1,0 +1,15 @@
+/**
+ * Tailwind CSS imports
+ */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/**
+ * Global styles
+ */
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #f9fafb;
+}
